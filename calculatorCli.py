@@ -19,15 +19,15 @@ def multplication():
             print(some)
 
 
-# if(operation =="1"):
-#     addition()
-#
-#
-# if(operation =="2"):
-#     substration()
-#
-# if(operation =="3"):
-#     multplication()
+if(operation =="1"):
+    addition()
+
+
+if(operation =="2"):
+    substration()
+
+if(operation =="3"):
+    multplication()
 
 match operation:
     case "1":
