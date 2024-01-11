@@ -1,3 +1,5 @@
+Print("Mini calculator program")
+
 x = float(input("enter the first number:"))
 y = float(input("enter the second number:"))
 
